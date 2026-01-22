@@ -21,3 +21,4 @@ def calculate_federal_tax(salary):
         return salary * 0.22
     else: 
         return salary * 0.24
+    
